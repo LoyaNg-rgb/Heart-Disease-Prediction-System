@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Heart Disease Prediction Model Training Script
+Learner-Success-Prediction-System Training Script
 This script handles the complete ML pipeline from data loading to model deployment preparation.
 """
 
